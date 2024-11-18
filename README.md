@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: DARIO G</h3>
-<h3>Register Number: 212222230027</h3>
+<h3>Name: RAKESH J.S</h3>
+<h3>Register Number: 212222230115</h3>
 
 <h3>AIM:</h3>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
